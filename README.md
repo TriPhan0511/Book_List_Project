@@ -1,1 +1,3 @@
 # Book_List_Project
+
+## DOM traversing, creating new node, local storage...
